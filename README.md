@@ -13,5 +13,9 @@ As a new SOC analyst for a company, this would be an example of myself reading, 
 
  <h4>
 Final Report: </h4>
-<img src="https://imgur.com/0dUAtBH.png" height="65%" width="70%" alt="Security Audit"/>
-<img src="https://imgur.com/IXSIurB.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/8DI4q5R.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/AAroU1p.png" height="65%" width="70%" alt="Security Audit"/>
+<h4>Examining the report</h4>
+<img src="https://imgur.com/Xwz3TJ7.png" height="65%" width="70%" alt="Security Audit"/>
+
+
